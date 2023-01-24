@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=Python">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white">
